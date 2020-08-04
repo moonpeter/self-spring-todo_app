@@ -8,6 +8,6 @@ public class ToDoItemRequest {
 
     private String id;
     private String title;
-    private boolean isDone;
+    private boolean done;
 
 }
